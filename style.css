@@ -1,0 +1,28 @@
+nav a{
+    text-align:right;
+    float:right;
+margin:10px;
+color: rgb(20, 19, 19);
+}
+
+a:hover {
+    color: rgb(241, 12, 12);
+}
+
+h2{
+    text-align: center;
+    color: rgb(233, 21, 21);
+    font-size: 35px;
+    font-style: unset;
+    border: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    border: black;
+}
+p{
+    text-align: left;
+}
+img{
+    text-align: left;
+    float: left;
+}
+
